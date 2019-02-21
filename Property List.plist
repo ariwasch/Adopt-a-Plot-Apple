@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>Point Number</key>
+            <integer>326</integer>
+            <key>Description</key>
+            <string>INTX PLOT 32,33,42,43</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>327</integer>
+            <key>Description</key>
+            <string>INTX PLOT 34,35,40,41</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>328</integer>
+            <key>Description</key>
+            <string>INTX PLOT 37,38</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>329</integer>
+            <key>Description</key>
+            <string>INTX PLOT 60,61,62,63</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>330</integer>
+            <key>Description</key>
+            <string>INTX PLOT 44,45,50</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>331</integer>
+            <key>Description</key>
+            <string>INTX PLOT 45,46,49,50</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>332</integer>
+            <key>Description</key>
+            <string>C/PLOT 48, POL47</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>333</integer>
+            <key>Description</key>
+            <string>C/PLOT 48</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>334</integer>
+            <key>Description</key>
+            <string>C/PLOT 48</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>335</integer>
+            <key>Description</key>
+            <string>INTX PLOT 58,69,66,67</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>336</integer>
+            <key>Description</key>
+            <string>INTX PLOT 56,69,68</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>337</integer>
+            <key>Description</key>
+            <string>INTX PLOT 54,55,70,71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>338</integer>
+            <key>Description</key>
+            <string>INTX PLOT 68,69,73,74</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>339</integer>
+            <key>Description</key>
+            <string>INTX PLOT 66,67,75,76</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>340</integer>
+            <key>Description</key>
+            <string>INTX PLOT 64,65,77,78</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>341</integer>
+            <key>Description</key>
+            <string>INTX PLOT 81,82,89,90</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>342</integer>
+            <key>Description</key>
+            <string>INTX PLOT 82,83,88,89</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>343</integer>
+            <key>Description</key>
+            <string>INTX PLOT 83,84,87,88</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>344</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 51,52</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1401</integer>
+            <key>Description</key>
+            <string>C/PLOT 31</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1402</integer>
+            <key>Description</key>
+            <string>C/PLOT 31</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1403</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 31,32</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1404</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 31,32</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1405</integer>
+            <key>Description</key>
+            <string>C/PLOT 43</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1406</integer>
+            <key>Description</key>
+            <string>C/PLOT 43</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1407</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 42,43</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1408</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 32,33</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1409</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 33,34</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1410</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 33,34,41,42</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1411</integer>
+            <key>Description</key>
+            <string>INTS PLOTS 41,42</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1412</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 40,41</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1413</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 34,35</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1414</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 35,36</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1415</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 35,36</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1416</integer>
+            <key>Description</key>
+            <string>C/PLOT 40</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1417</integer>
+            <key>Description</key>
+            <string>C/PLOT 40</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1418</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 36,37</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1419</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 36,37</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1420</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 37,38</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1421</integer>
+            <key>Description</key>
+            <string>C/PLOT 38</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1422</integer>
+            <key>Description</key>
+            <string>C/PLOT 38</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1423</integer>
+            <key>Description</key>
+            <string>C/PLOT 39</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1424</integer>
+            <key>Description</key>
+            <string>C/PLOT 39</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1425</integer>
+            <key>Description</key>
+            <string>C/PLOT 39</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1426</integer>
+            <key>Description</key>
+            <string>C/PLOT 60</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1427</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 60,61</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1428</integer>
+            <key>Description</key>
+            <string>C/PLOT 61</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1429</integer>
+            <key>Description</key>
+            <string>C/PLOT 61</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1430</integer>
+            <key>Description</key>
+            <string>C/PLOT 61</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1431</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 61,62</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1432</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 60,63,64</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1433</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 64,65</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1434</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 65,66</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1435</integer>
+            <key>Description</key>
+            <string>C/PLOT 69</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1436</integer>
+            <key>Description</key>
+            <string>C/PLOT 58</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1437</integer>
+            <key>Description</key>
+            <string>C/PLOT 57</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1438</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 67,68</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1439</integer>
+            <key>Description</key>
+            <string>C/PLOT 57</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1440</integer>
+            <key>Description</key>
+            <string>C/PLOT 69</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1441</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 58,69</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1442</integer>
+            <key>Description</key>
+            <string>C/PLOT 58</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1443</integer>
+            <key>Description</key>
+            <string>C/PLOT 57</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1444</integer>
+            <key>Description</key>
+            <string>C/PLOT 57</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1445</integer>
+            <key>Description</key>
+            <string>C/PLOT 56</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1446</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 55,56</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1447</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 54,55</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1448</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 53,54</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1449</integer>
+            <key>Description</key>
+            <string>C/PLOT 53</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1450</integer>
+            <key>Description</key>
+            <string>C/PLOT 53</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1451</integer>
+            <key>Description</key>
+            <string>C/PLOT 71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1452</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 53,54</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1453</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 55,56,69,70</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1454</integer>
+            <key>Description</key>
+            <string>C/PLOT 71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1455</integer>
+            <key>Description</key>
+            <string>C/PLOT 71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1456</integer>
+            <key>Description</key>
+            <string>C/PLOT 71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1457</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 70,71</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1458</integer>
+            <key>Description</key>
+            <string>C/PLOT 70</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1459</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 69,70,72,73</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1460</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 67,68,74,75</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1461</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 65,66,76,77</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1462</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 63,64,78,79</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1463</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 63,79</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1464</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 62,79</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1465</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 79,80</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1466</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 78,79</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1467</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 77,78,80,81</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1468</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 76,77,81,82</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1469</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 75,76,82,83</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1470</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 74,75,83,84</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1471</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 73,74,84,85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1472</integer>
+            <key>Description</key>
+            <string>C/PLOT 85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1473</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 72,73</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1474</integer>
+            <key>Description</key>
+            <string>C/PLOT 72</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1475</integer>
+            <key>Description</key>
+            <string>C/PLOT 72</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1476</integer>
+            <key>Description</key>
+            <string>MID PNT PLOT 72</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1477</integer>
+            <key>Description</key>
+            <string>C/PLOT 85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1478</integer>
+            <key>Description</key>
+            <string>C/PLOT 85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1479</integer>
+            <key>Description</key>
+            <string>C/PLOT 85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1480</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 85,86</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1481</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 85,86,87</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1482</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 84,85</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1483</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 81,82</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1484</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 80,90</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1485</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 90,91</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1486</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 89,90</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1487</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 88,89,91,92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1488</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 87,88</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1489</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 87,92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1490</integer>
+            <key>Description</key>
+            <string>C/PLOT 87</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1491</integer>
+            <key>Description</key>
+            <string>C/PLOT 86</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1492</integer>
+            <key>Description</key>
+            <string>C/PLOT 86</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1493</integer>
+            <key>Description</key>
+            <string>C/PLOT 86</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1494</integer>
+            <key>Description</key>
+            <string>C/PLOT 86</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1495</integer>
+            <key>Description</key>
+            <string>C/PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1496</integer>
+            <key>Description</key>
+            <string>C/PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1497</integer>
+            <key>Description</key>
+            <string>MID PNT PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1498</integer>
+            <key>Description</key>
+            <string>C/PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1499</integer>
+            <key>Description</key>
+            <string>MID PNT PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1500</integer>
+            <key>Description</key>
+            <string>C/PLOT 92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1501</integer>
+            <key>Description</key>
+            <string>INTX PLOTS 91,92</string>
+            <key/>
+            <string></string>
+        </dict>
+        <dict>
+            <key>Point Number</key>
+            <integer>1502</integer>
+            <key>Description</key>
+            <string>C/PLOT 91</string>
+            <key/>
+            <string></string>
+        </dict>
+    </array>
+</plist>
